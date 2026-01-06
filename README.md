@@ -41,18 +41,11 @@ const skills = {
 };
 ```
 
-### 📊 GitHub Stats
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4xush&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4xush&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4xush&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4xush&theme=tokyonight" alt="Profile Summary" width="100%" />
 
 </div>
 
