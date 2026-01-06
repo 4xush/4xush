@@ -1,56 +1,73 @@
+<div align="center">
+
 # Ayush Kumar
 
-Building scalable web applications and solving complex problems.
+**Full Stack Developer** • **ECE @ IIIT Guwahati**
 
-**B.Tech ECE** @ IIIT Guwahati · **Full Stack Developer**
+Building scalable web applications and solving complex problems
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushkv)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://4xush.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ayush043b@gmail.com)
 
-## What I'm Working On
-
-Currently building **CForge** - a SaaS platform that aggregates competitive programming data from LeetCode, Codeforces, and GitHub, serving 200+ active users with real-time analytics and spaced-repetition workflows.
-
-Previously interned at **Credence Marketings**, where I built real-time room availability systems and RESTful APIs serving multiple clients.
+</div>
 
 ---
 
-## Recent Projects
+### 👨‍💻 About
 
-**[CForge](https://github.com/4xush/CForge)** — SaaS platform for competitive programming analytics  
-Node.js · React · MongoDB · Redis · WebSockets · JWT
+Currently building **[CForge](https://github.com/4xush/CForge)** — a SaaS platform aggregating competitive programming data from LeetCode, Codeforces, and GitHub, serving **200+ active users** with real-time analytics.
 
-**[Alora AI](https://github.com/4xush/alora-ai)** — AI-powered technical interview platform  
-React · Redux · OpenAI API · [Live Demo](https://alora-ai-ten.vercel.app)
+Previously interned at **Credence Marketings**, developing real-time systems with Socket.IO and RESTful APIs.
 
-**[Spendiq](https://github.com/4xush/Spendiq)** — AI-powered personal finance manager with receipt parsing  
-MERN Stack · JWT · REST APIs
+### 🚀 Featured Projects
 
-**[ShopSync Manager](https://github.com/4xush/ShopSync-Manager)** — Desktop inventory system for retail  
-Java · JavaFX · SQLite · Maven
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[CForge](https://github.com/4xush/CForge)** | Competitive programming analytics platform | Node.js, React, MongoDB, Redis, WebSockets |
+| **[Alora AI](https://github.com/4xush/alora-ai)** | AI-powered technical interview platform | React, Redux, OpenAI API |
+| **[Spendiq](https://github.com/4xush/Spendiq)** | AI finance manager with receipt parsing | MERN Stack, JWT, REST APIs |
+| **[ShopSync Manager](https://github.com/4xush/ShopSync-Manager)** | Desktop inventory management system | Java, JavaFX, SQLite, Maven |
+
+### 💻 Tech Stack
+
+```javascript
+const skills = {
+  languages: ['JavaScript', 'Java', 'C++', 'Python'],
+  backend: ['Node.js', 'Express.js', 'Socket.IO', 'JWT'],
+  frontend: ['React', 'Redux', 'TailwindCSS'],
+  databases: ['MongoDB', 'MySQL', 'SQLite', 'Redis'],
+  tools: ['Docker', 'Git', 'GitHub Actions', 'Vercel']
+};
+```
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=4xush&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4xush&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4xush&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" width="49%" />
+
+</div>
+
+### 🏆 Achievements
+
+- **LeetCode:** 1703 rating (Top 12.9%) • 500+ problems solved
+- **CodeChef:** 3-Star rated
+- **Research:** Co-authored deep learning paper under review at ICIIP 2025
 
 ---
 
-## Skills
+<div align="center">
 
-**Languages:** JavaScript, Java, C++, Python  
-**Backend:** Node.js, Express.js, REST APIs, Socket.IO  
-**Frontend:** React, Redux Toolkit, TailwindCSS  
-**Databases:** MongoDB, MySQL, SQLite, Redis  
-**Tools:** Docker, Git, GitHub Actions, Linux, Vercel
+*Open to collaborations and interesting projects*
 
----
+![](https://komarev.com/ghpvc/?username=4xush&color=58A6FF&style=flat-square)
 
-## Competitive Programming
-
-**LeetCode:** 1703 rating (Top 12.9%) · 500+ problems solved  
-**CodeChef:** 3-Star rated
-
----
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/ayushkv) · [Email](mailto:ayush043b@gmail.com) · [Portfolio](https://4xush.github.io/portfolio)
-
----
-
-<sub>Open to collaborations and interesting projects. Let's build something impactful.</sub>
+</div>
