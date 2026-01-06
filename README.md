@@ -8,7 +8,7 @@ Building scalable web applications and solving complex problems.
 
 ## What I'm Working On
 
-Currently building **CForge** — a SaaS platform that aggregates competitive programming data from LeetCode, Codeforces, and GitHub, serving 200+ active users with real-time analytics and spaced-repetition workflows.
+Currently building **CForge** - a SaaS platform that aggregates competitive programming data from LeetCode, Codeforces, and GitHub, serving 200+ active users with real-time analytics and spaced-repetition workflows.
 
 Previously interned at **Credence Marketings**, where I built real-time room availability systems and RESTful APIs serving multiple clients.
 
