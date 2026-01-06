@@ -134,7 +134,7 @@ Deep learning project for tea leaf classification using custom Hybrid Dilated Co
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4xush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4xush&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4xush&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
 
 </div>
 
@@ -201,11 +201,11 @@ Deep learning project for tea leaf classification using custom Hybrid Dilated Co
 
 ### 🎯 2026 Goals
 
-✅ Contribute to more Open Source projects  
-✅ Build products that solve real-world problems  
-✅ Master System Design & Cloud Architecture  
-✅ Share knowledge through technical blogs  
-✅ Reach 100+ GitHub stars across projects  
+🎯 Contribute to more Open Source projects  
+🎯 Build products that solve real-world problems  
+🎯 Master System Design & Cloud Architecture  
+🎯 Share knowledge through technical blogs  
+🎯 Reach 100+ GitHub stars across projects  
 
 ---
 
